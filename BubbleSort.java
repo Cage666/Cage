@@ -41,7 +41,7 @@ class BubbleSort {
 	【展示数组】
 	函数功能：对数组进行标准格式展示。
 	获取参数：数组名(int[])
-	返回值：null
+	返回值：void
 	思路：对数组进行遍历，用if语句判断是否为末位，来决定打印内容。
 	*/
 	public static void showArray(int[] arr) {
@@ -59,7 +59,7 @@ class BubbleSort {
 	【换位】
 	函数功能：对数组中给定的两个元素换位。
 	获取参数：数组名(int[])，元素角标(int)
-	返回值：null
+	返回值：void
 	*/
 	public static void swap(int[] arr, int i, int j) {
 		int temp = arr[i];
