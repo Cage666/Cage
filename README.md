@@ -1,2 +1,2 @@
 # JavaSE
-BubbleSort：优化后的冒泡排序法。
+BubbleSort.java：优化后的冒泡排序法。
